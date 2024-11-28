@@ -1,6 +1,6 @@
 ![Screenshot (2)](https://github.com/user-attachments/assets/72ab3ec2-0f4e-4771-b06b-9e61840c56dc)
 
-# Video Sales Analysis
+# Video Games Sales Analysis
 
 ## Table Of Content
 - [Project Overview](#project-overview)
